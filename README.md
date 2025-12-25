@@ -1,62 +1,87 @@
+<!-- Hero Section -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<h1 align="center">Hi, I'm Joshua Calvin 👋</h1>
+
+<p align="center">
+  Frontend Developer • Aspiring Data Analyst • Tech Enthusiast
+</p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/joshua-calvin-12a7a2319" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/joshua-calvin-12a7a2319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<h1 align="left">Hey There...👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Joshua Calvin<br><br>- 💻 I'm an aspiring **Frontend Developer** with a passion for clean code, great UI, and solving real-world problems through technology.  <br>- 📊 I’m also learning to become a **Data Analyst** using Python and Pandas.  <br>- 🎯 Currently focused on building cool web apps with **React** and  learn about **Backend**skills.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<!-- Typing SVG -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jocalvinshua&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Aspiring+Data+Analyst;Clean+Code+Advocate"
+    alt="Typing SVG"
+  />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/jocalvinshua/jocalvinshua/output/snake.svg" alt="Snake animation" />
+## 👨‍💻 About Me
 
-###
+I’m **Joshua Calvin**, a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
+
+- 💻 Strong interest in **React**, **TypeScript**, and modern UI development  
+- 📊 Actively learning **Data Analysis** using **Python** and **Pandas**  
+- ⚙️ Exploring **Backend Development** to become a well-rounded developer  
+- 🎯 Goal-driven, curious, and always eager to learn new technologies  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+</div>
+
+### Data & Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+- Personal portfolio built with **React & Tailwind CSS**
+- Responsive design & modern UI principles  
+- Showcases projects, skills, and contact info  
+
+### 📊 Data Analysis Projects
+- Data cleaning & exploration using **Pandas**
+- Simple visualizations & insights from datasets  
+- Focus on real-world data problems  
+
+_(More projects coming soon 🚧)_
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [Joshua Calvin](https://www.linkedin.com/in/joshua-calvin-12a7a2319)
+- 📧 Open for collaboration, learning, and opportunities
+
+⭐ _Feel free to check out my repositories and leave a star if you find something interesting!_
