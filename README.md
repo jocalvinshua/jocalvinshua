@@ -1,87 +1,32 @@
-<!-- Hero Section -->
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joshua Calvin
+======================================================================================================================================
 
-<h1 align="center">Hi, I'm Joshua Calvin 👋</h1>
+Web Developer & Data Analyst
+----------------------------
 
-<p align="center">
-  Frontend Developer • Aspiring Data Analyst • Tech Enthusiast
+I’m Joshua Calvin, a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+
+  💻 Strong interest in React, TypeScript, and modern UI development
+
+  📊 Actively learning Data Analysis using Python and Pandas
+
+  ⚙️ Exploring Backend Development to become a well-rounded developer
+
+  🎯 Goal-driven, curious, and always eager to learn new technologies
+
+* 🌍  I'm based in Jakarta, Indonesia
+* ✉️  You can contact me at [jcalvin.dev@gmail.com](mailto:jcalvin.dev@gmail.com)
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joshua-calvin-12a7a2319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/jocalvinshua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@jocalvinshua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/joshua-calvin-12a7a2319" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-<!-- Typing SVG -->
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Aspiring+Data+Analyst;Clean+Code+Advocate"
-    alt="Typing SVG"
-  />
-</div>
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/jocalvinshua"><img src="https://github-readme-stats.vercel.app/api?username=jocalvinshua&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="jocalvinshua's GitHub stats" /></a>
 
-## 👨‍💻 About Me
-
-I’m **Joshua Calvin**, a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
-
-- 💻 Strong interest in **React**, **TypeScript**, and modern UI development  
-- 📊 Actively learning **Data Analysis** using **Python** and **Pandas**  
-- ⚙️ Exploring **Backend Development** to become a well-rounded developer  
-- 🎯 Goal-driven, curious, and always eager to learn new technologies  
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-</div>
-
-### Data & Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-- Personal portfolio built with **React & Tailwind CSS**
-- Responsive design & modern UI principles  
-- Showcases projects, skills, and contact info  
-
-### 📊 Data Analysis Projects
-- Data cleaning & exploration using **Pandas**
-- Simple visualizations & insights from datasets  
-- Focus on real-world data problems  
-
-_(More projects coming soon 🚧)_
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Joshua Calvin](https://www.linkedin.com/in/joshua-calvin-12a7a2319)
-- 📧 Open for collaboration, learning, and opportunities
-
-⭐ _Feel free to check out my repositories and leave a star if you find something interesting!_
+<a href="https://github.com/jocalvinshua" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocalvinshua&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
